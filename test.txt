@@ -1,0 +1,7 @@
+Live-serverを起動するコマンド
+npx live-server
+
+(./node_modules/.bin/live-server)でも起動できるが、npxコマンドを使えば、パスを指定しなくても良い
+
+
+
