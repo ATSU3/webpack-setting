@@ -3,5 +3,9 @@ npx live-server
 
 (./node_modules/.bin/live-server)でも起動できるが、npxコマンドを使えば、パスを指定しなくても良い
 
+webpack-dev-serverの起動 --openでindex.htmlをサーチ
+npx webpack-dev-server --open
+
+
 
 
